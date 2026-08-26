@@ -1,0 +1,18 @@
+# Task 1: Command-Line To-Do List Application
+
+### Project Description
+This is a robust Command-Line Interface (CLI) based To-Do List application developed in Python. The primary objective of this project is to provide users with an efficient ecosystem to manage, track, and organize their daily routines and professional tasks effortlessly.
+
+### Key Features
+- **Create Tasks:** Users can instantly add new tasks with clear descriptions to their list.
+- **View Tasks:** Displays a structured and numbered list of all existing active tasks.
+- **Update Tasks:** Allows users to modify or edit the text of an already created task.
+- **Mark Status:** Features an option to mark tasks as completed or pending.
+- **Delete Tasks:** Users can permanently remove completed or unwanted tasks from the list.
+- **User-Friendly Loop:** Runs continuously until the user explicitly chooses to exit the app.
+
+### How to Run
+1. Make sure Python 3.x is installed on your local computer system.
+2. Open your terminal or command prompt and navigate to the project folder.
+3. Run the application using the command: `python todo.py`.
+4. Follow the on-screen numbered menu prompts to interact with the application.
