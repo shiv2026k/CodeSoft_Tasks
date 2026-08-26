@@ -45,11 +45,11 @@ To explore and test these Python applications locally on your machine, follow th
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/shiv2026k/CodeSoft_Tasks
    ```
 2. **Navigate to the Project Folder:**
    ```bash
-   cd CODSOFT_TASKSNO
+   cd CodeSoft_Tasks
    ```
 3. **Execute Any Task Script:**
    *(Run the specific task file using the Python runner command)*
@@ -61,7 +61,7 @@ To explore and test these Python applications locally on your machine, follow th
 
 ## 📌 Submission Guidelines Followed
 
-- **Repository Naming:** Named exactly as `CODSOFT_TASKSNO` for standardized evaluation.
+- **Repository Naming:** Named exactly as `CodeSoft_Tasks` for standardized evaluation.
 - **Social Proof:** Project video walk-throughs and execution updates are shared publicly on LinkedIn to showcase live work credibility.
 - **Community Tagging:** Published with institutional tags including `@CODSOFT` alongside global reach tags like `#codsoft #internship #python`.
 
